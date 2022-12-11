@@ -16,6 +16,7 @@
 
 ### 2. 주제 선정 이유
 <img src="https://user-images.githubusercontent.com/83712521/206904233-34fd33af-edd4-4ce8-b814-8d21a4ef327b.png" width="500" height="300">
+
 #### (1) 배경
 - 10년 간 카메라 매출액이 1/4배로 급하락 및 
 - 카메라 시장의 변화 (DSLR 단종, 미러리스 발전)
