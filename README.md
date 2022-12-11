@@ -2,6 +2,30 @@
 ### topic_modeling_and_review_sentiment_analysis_about_camera
 ---
 
+### 0. 코드 정리
+
+<table>
+    <thead>
+        <tr>
+            <th>구    분</th>
+            <th>파 일 명</th>
+            <th>설    명</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 01 </td>
+            <td> news data </td>
+            <td> 크롤링, 형태소 분석, 키워드 시각화 </td>
+        </tr>
+        <tr>
+            <td> 02 </td>
+            <td> review data </td>
+            <td> 크롤링, 형태소 분석, 키워드 시각화, N-gram, TF-IDF, word cloud </td>
+        </tr>  
+    </tbody>
+</table>
+
 ### 1. 프로젝트 목적
 - 협업 및 의사소통 능력 향상
 - Crawling, TF-IDF를 이용한 키워드 추출
