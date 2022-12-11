@@ -94,12 +94,16 @@
 #### (2) 사진
 - 키워드 시각화
 <img src="https://user-images.githubusercontent.com/83712521/206905386-0807cc57-8d07-4395-bba4-c158752ac102.png" width="500" height="300">
+
 - 토픽 모델링
 <img src="https://user-images.githubusercontent.com/83712521/206905316-0be2d07e-708e-49ec-83c8-b48fed1b4010.png" width="500" height="300">
+
 - N-gram
 <img src="https://user-images.githubusercontent.com/83712521/206905465-15e27798-27ed-44de-9828-b2dd7c089044.png" width="500" height="300">
+
 - word cloud
 <img src="https://user-images.githubusercontent.com/83712521/206904080-77d47eb3-2e2a-44e5-8a72-7b7a4cf7e510.png" width="300" height="300">
+
 
 ### 6. 추후 개선 방향
 - cosine similarity(코사인 유사도) 활용 문서별 토픽 모델링 진행
