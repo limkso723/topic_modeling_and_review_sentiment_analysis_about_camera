@@ -1,4 +1,4 @@
-### 카메라 토픽 모델링 및 리뷰 감성 분석.
+### 카메라 토픽 모델링 및 리뷰 감성 분석
 ### topic_modeling_and_review_sentiment_analysis_about_camera
 ---
 
